@@ -1,5 +1,5 @@
 # MLX-Fine-Tuner
-Create Apple MLX framework based fine tune for LLM models
+Create Apple MLX automation for fine tuning LLM models
 
 Copyright (c) 2025 Evrim Uysal
 
